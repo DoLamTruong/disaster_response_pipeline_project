@@ -5,7 +5,7 @@
 * [Overview](#project-overview)
 * [Requirements](#requirements)
 * [Components](#file-descriptions)
-* [Demo](#demo)
+* [Instructions](#instructions)
 * [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -41,7 +41,7 @@ This project has three components:
 
 3. `Flask Web App`
     * A web app to demo how messenge can be classification.
-### Instructions:
+## Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -53,3 +53,6 @@ This project has three components:
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+## Acknowledgements
+Thanks Udacity for helping me complete this project.
