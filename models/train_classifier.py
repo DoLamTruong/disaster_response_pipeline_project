@@ -1,8 +1,6 @@
 import sys
 import pandas as pd
-import numpy as np
 import sqlalchemy
-import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from sklearn.model_selection import GridSearchCV
