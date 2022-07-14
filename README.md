@@ -4,7 +4,7 @@
 
 * [Overview](#project-overview)
 * [Requirements](#requirements)
-* [Components](#file-descriptions)
+* [Components](#components)
 * [Instructions](#instructions)
 * [Acknowledgements](#acknowledgements)
 
