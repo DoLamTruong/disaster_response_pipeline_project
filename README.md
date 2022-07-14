@@ -14,20 +14,20 @@
 In this project, I applied my data engineering skills to processe data and build a model trained for an API that classify disaster text data. This project can use in disaster events so that the messages could be sent to an appropriate disaster relief agency. The project include a machine learning pipeline and a web interface for demo where emergency worker can input a messenge and get classification result.
 
 ## Project structure
-*app
-| - template
-| |- master.html # main page of web app
-| |- go.html # classification result page of web app
-|- run.py # Flask file that runs app
+* app
+| - template \\
+| |- master.html # main page of web app\\
+| |- go.html # classification result page of web app\\
+|- run.py # Flask file that runs app\\
 
-*data
-|- disaster_categories.csv # data to process
-|- disaster_messages.csv # data to process
-|- process_data.py
+* data
+|- disaster_categories.csv # data to process\\
+|- disaster_messages.csv # data to process\\
+|- process_data.py\\
 |- InsertDatabaseName.db # database to save clean data to
 
-*models
-|- train_classifier.py
+* models
+|- train_classifier.py\\
 |- classifier.pkl # saved model
 
 *README.md
